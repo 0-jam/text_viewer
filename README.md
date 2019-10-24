@@ -11,6 +11,8 @@ Various methods for showing text
 
 ### message.py
 
+- `pl/message.pl` has the same usage
+
 ```
 $ python message.py sample.txt
 ```
