@@ -16,3 +16,9 @@ Various methods for showing text
 ```
 $ python message.py sample.txt
 ```
+
+### title.py
+
+```
+$ python title.py 'Your First Masterpiece'
+```
