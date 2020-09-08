@@ -13,9 +13,9 @@ Various methods for showing text
 
 ## Environment
 
-- Arch Linux x86_64 (2019/10/24)
-- Python 3.7.4
-- Perl 5.30.0
+- Arch Linux x86_64 (2020/09/08)
+- Python 3.8.5
+- Perl 5.32.0
 
 ## Usage
 
